@@ -218,7 +218,7 @@ const Layout: FC = (props) => {
           </div>
           <div class="power">
             Copyright&nbsp;©&nbsp;
-            <a href="https://www.imsyy.top/" target="_blank">
+            <a href="#" target="_blank">
               無名
             </a>
             &nbsp;|&nbsp;Power by&nbsp;
